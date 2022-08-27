@@ -15,14 +15,15 @@ body {
     
     .container{
         background: white;
-        max-width: 80%;
+        max-width: 100%;
         margin: auto;
         border: 3px solid black;
-        border-radius: 10px;
+        border-radius: 30px;
     }
     
     h1 {
-        font-size: 30px;
+        font-size: 40px;
+        color: brown;
     }
     
     h2 {
